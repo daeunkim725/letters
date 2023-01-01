@@ -1,14 +1,14 @@
 const CONFIG = {
   // profile setting
   profile: {
-    name: 'Daeun Kim',
-    image: 'nkim/Downloads/notion-avatar-1672550289008.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: 'hello'
-    bio: 'I am a student at Princeton University studying Operations Research and Financial Engineering',
-    email: 'dk4994@princeton.edu',
-    github: 'daeunkim725',
-    linkedin: 'https://github.com/daeunkim725',
-    instagram: 'daeun_nkim',
+    name: 'morethanmin',
+    image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: 'frontend developer',
+    bio: 'I develop everything using node.',
+    email: 'morethanmin.dev@gmail.com',
+    github: 'morethanmin',
+    linkedin: '',
+    instagram: '',
   },
   projects: [
     {
@@ -18,13 +18,13 @@ const CONFIG = {
   ],
   // blog setting
   blog: {
-    title: 'Daeuns Letters',
-    description: 'welcome to my website!',
+    title: 'morethan-log',
+    description: 'welcome to morethan-log!',
     theme: 'auto' // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration
-  link: 'https://daeun-kim-letters.vercel.app',
+  link: 'https://morethan-log.vercel.app',
   since: 2022, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: 'daeunkim725/letter',
+      repo: 'morethanmin/morethan-log',
       'issue-term': 'og:title',
       label: '💬 Utterances',
     }
