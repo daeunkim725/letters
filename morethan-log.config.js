@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting
   profile: {
     name: 'Daeun Kim',
-    image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: '/avatar.png',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'me',
     bio: 'Hello! I am a student at Princeton University studying Operations Research and Financial Engineering. I love cats, music, books, and all things math',
     email: 'dk4994@princeton.edu',
