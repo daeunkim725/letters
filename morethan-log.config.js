@@ -1,14 +1,14 @@
 const CONFIG = {
   // profile setting
   profile: {
-    name: 'morethanmin',
+    name: 'Daeun Kim',
     image: 'file:///Users/daeunkim/Downloads/notion-avatar-1672551569897.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: 'frontend developer',
-    bio: 'I develop everything using node.',
-    email: 'morethanmin.dev@gmail.com',
-    github: 'morethanmin',
-    linkedin: '',
-    instagram: '',
+    role: 'Writer',
+    bio: 'I am a student at Princeton University studying Operations Research and Financial Engineering.',
+    email: 'dk4994@princeton.edu',
+    github: 'daeunkim725',
+    linkedin: 'daeunkim725',
+    instagram: '@daeun_nkim',
   },
   projects: [
     {
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: 'morethanmin/morethan-log',
+      repo: 'daeunkim725/letters',
       'issue-term': 'og:title',
       label: '💬 Utterances',
     }
