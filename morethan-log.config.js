@@ -7,8 +7,8 @@ const CONFIG = {
     bio: 'Hello! I am a student at Princeton University studying Operations Research and Financial Engineering. I love cats, music, books, and all things math',
     email: 'dk4994@princeton.edu',
     github: 'daeunkim725',
-    linkedin: 'https://www.linkedin.com/in/daeunkim725/',
-    instagram: 'https://www.instagram.com/daeun_nkim/',
+    linkedin: 'daeunkim725',
+    instagram: 'daeun_nkim',
   },
   projects: [
     {
